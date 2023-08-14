@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Angelica👋
 
-<!--
-**angelicacamboim/angelicacamboim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a love for coding and problem-solving. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelicacamboim&repo=pokemon-react)](https://github.com/angelicacamboim/pokemon-react)
+
+## 🌐 Connect with Me
+
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://yourwebsite.com)
+
+
+<br />
+
+## 📊 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelicacamboim&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicacamboim&hide_progress=true)
+
