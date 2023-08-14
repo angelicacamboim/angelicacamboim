@@ -8,8 +8,6 @@ I'm a passionate developer with a love for coding and problem-solving. Welcome t
 
 ## 🌐 Connect with Me
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://yourwebsite.com)
-
 
 <br />
 
