@@ -7,4 +7,3 @@ I'm a passionate developer with a love for coding and problem-solving. Welcome t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelicacamboim&repo=cypress-do-zero-a-nuvem&theme=dracula)](https://github.com/angelicacamboim/cypress-do-zero-a-nuvem)
 
 
-
