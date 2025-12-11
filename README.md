@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil no GitHub!
 
 ## 🌍 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/angelicacamboim)
+- 💼 [LinkedIn](https://www.linkedin.com/in/angelicabayer/)
 - 📧 angelicacamboim@gmail.com
 
 
