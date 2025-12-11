@@ -4,8 +4,7 @@ I'm a passionate developer with a love for coding and problem-solving. Welcome t
 
 ## 🖥 My Projects
   
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelicacamboim&repo=DevLinks_Discover&theme=dracula)](https://github.com/angelicacamboim/DevLinks_Discover)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelicacamboim&repo=cypress-do-zero-a-nuvem&theme=dracula)](https://github.com/angelicacamboim/cypress-do-zero-a-nuvem)
 
 
 
